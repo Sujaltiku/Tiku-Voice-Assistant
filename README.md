@@ -1,2 +1,35 @@
 # Tiku-Voice-Assistant
-This is Tiku Voice Assistant which can perform many useful tasks like answering questions, opening applications , palying music and all
+# 🎙️ Tiku Assistant
+
+**Tiku** is a voice-activated AI desktop assistant built with Python. It can listen to your voice, respond intelligently, search Google, play music from YouTube, open apps, and answer factual questions using WolframAlpha.
+
+---
+
+## ✨ Features
+
+- 🔊 Wake word: Say **"Tiku"** to activate hands-free mode
+- 🗣️ Voice command recognition
+- 📺 Play YouTube music using keywords
+- 🌐 Google search for anything
+- 🧠 Ask questions with WolframAlpha
+- 🧠 Optional ChatGPT (OpenAI) integration
+---
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- `speech_recognition`
+- `pyttsx3` (text-to-speech)
+- `pywhatkit` (YouTube playback)
+- `wolframalpha`
+- `openai` (optional, for GPT responses)
+- `python-dotenv` (to manage API keys)
+
+---
+
+## 🖥️ How to Run
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/yourusername/tiku-assistant.git
+   cd tiku-assistant
