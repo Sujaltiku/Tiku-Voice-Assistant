@@ -2,7 +2,9 @@
 # 🎙️ Tiku Assistant
 
 **Tiku** is a voice-activated AI desktop assistant built with Python. It can listen to your voice, respond intelligently, search Google, play music from YouTube, open apps, and answer factual questions using WolframAlpha.
-
+		Sign up for WolframAlpha API:
+Go to WolframAlpha Developer Portal and create a free account to get your App ID.
+      Create a .env file in the project root and add your WolframAlpha App ID:
 ---
 
 ## ✨ Features
